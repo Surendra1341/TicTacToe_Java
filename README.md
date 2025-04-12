@@ -8,7 +8,6 @@
 
 This is a fully-featured Tic Tac Toe implementation built in Java, offering both local play and client-server multiplayer functionality. The game features a clean UI, intuitive controls, and networking capabilities for remote play.
 
-![Game Banner](./resources/serverDisplay.png)
 
 ## ✨ Features
 
@@ -22,13 +21,19 @@ This is a fully-featured Tic Tac Toe implementation built in Java, offering both
 ## 📷 Screenshots
 
 ### First Player View
+<p align="center">
 ![First Player View](./resources/firstPlayer.png)
+</p>
 
 ### Second Player View
+<p align="center">
 ![Second Player View](./resources/secondPlayer.png)
+</p>
 
 ### Server Display
+<p align="center">
 ![Server Display](./resources/serverDisplay.png)
+</p>
 
 ## 🚀 Getting Started
 
