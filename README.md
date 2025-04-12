@@ -22,17 +22,17 @@ This is a fully-featured Tic Tac Toe implementation built in Java, offering both
 
 ### First Player View
 <p align="center">
-![First Player View](./resources/firstPlayer.png)
+<img src="resources/firstPlayer.png" alt="Image" width="300" />
 </p>
 
 ### Second Player View
 <p align="center">
-![Second Player View](./resources/secondPlayer.png)
+   <img src="resources/secondPlayer.png" alt="Image" width="300" />
 </p>
 
 ### Server Display
 <p align="center">
-![Server Display](./resources/serverDisplay.png)
+   <img src="resources/serverDisplay.png" alt="Image" width="300" />
 </p>
 
 ## 🚀 Getting Started
